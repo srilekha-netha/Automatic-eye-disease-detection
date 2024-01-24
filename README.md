@@ -19,7 +19,7 @@ This repository contains a machine learning model developed in Python for the au
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/srilekha_netha/eye-disease-prediction.git
+   git clone https://github.com/srilekha-netha/eye-disease-prediction.git
 ##Dependencies
 pip install -r requirements.txt
 
